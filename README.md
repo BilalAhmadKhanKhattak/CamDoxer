@@ -6,6 +6,10 @@ CamDoxer is a Python tool designed to discover publicly accessible IP camera str
 - Page Navigation: Option to scrape multiple pages for comprehensive results.
 - Simple CLI: User-friendly command-line interface with clear prompts.
 
+## Screenshots
+![Image](https://github.com/BilalAhmadKhanKhattak/CamDoxer/blob/main/Screenshot%20(49).png)
+![Image](https://github.com/BilalAhmadKhanKhattak/CamDoxer/blob/main/Screenshot%20(50)%20copy.png)
+
 ## Getting Started
 Installation
 
