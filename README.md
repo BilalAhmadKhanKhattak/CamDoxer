@@ -17,7 +17,8 @@ cd CamDoxer
 
 Install required packages:
 
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 
 ## Usage
