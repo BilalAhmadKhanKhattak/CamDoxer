@@ -179,7 +179,7 @@ def main():
             continue  # After printing all the country codes, this 'continue' skips the rest of the loop and prompts
             # the user to try again
 
-        if country in insecam_countries_dict or skyline_countries_dict:
+        if country in insecam_countries_dict or country in skyline_countries_dict:
             break
         else:
             print(Fore.LIGHTRED_EX + "Bruh, Enter A Two letter country code")
